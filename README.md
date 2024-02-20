@@ -1,4 +1,6 @@
 # Como executar:  
+Requisitos: instalar [Scrapy](https://scrapy.org/download/) com `pip install scrapy`
+
 Acesse o diretório principal e execute o comando `scrapy crawl planets`, `scrapy crawl films` ou `scrapy crawl people` de acordo com quais dados deseja ver o resultado.  
 
 Na pasta `starwars/raw/`, encontram-se os jsons sem modificações, assim como eles são encontrados na swapi.  
